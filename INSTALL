@@ -1,0 +1,9 @@
+Building TelePayCoin
+
+See doc/readme-qt.rst for instructions on building TelePayCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of TelePayCoin.
+
+See doc/build-*.txt for instructions on building telepaycoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of TelePayCoin.

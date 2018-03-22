@@ -1,0 +1,34 @@
+src/*.exe
+src/telepaycoin
+src/telepaycoind
+src/test_telepaycoin
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.telepaycoin
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+telepaycoin-qt
+TelePayCoin-Qt.app
+
+# Unit-tests
+Makefile.test
+telepaycoin-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile
