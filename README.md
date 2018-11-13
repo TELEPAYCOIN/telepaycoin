@@ -1,10 +1,10 @@
 TelePayCoin integration/staging tree
 ================================
 
-http://www.telepaycoin.info
+http://www.telepaycoin.com
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 TelePayCoin Developers
+Copyright (c) 2011-2018 TelePayCoin Developers
 
 What is TelePayCoin?
 ----------------
@@ -12,14 +12,14 @@ What is TelePayCoin?
 TelePayCoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 2 minute block targets
  - subsidy halves in 571428 blocks (~793 Days ~2.17years)
- - ~29.999.970 million total coins
+ - ~29.999.970 total coins
 
 The rest is the same as Bitcoin.
  - 30 coins per block
  - 571428 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the TelePayCoin client sofware, see http://www.telepaycoin.info.
+the TelePayCoin client sofware, see https://www.telepaycoin.com.
 
 License
 -------
